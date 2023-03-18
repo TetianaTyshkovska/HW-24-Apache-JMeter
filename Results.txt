@@ -1,0 +1,11 @@
+Thread descriptions: https://prnt.sc/JvXXjn96Vs5Q 
+POST https://prnt.sc/x8a3MkdLD9Ba 
+GET https://prnt.sc/v_Z_-hkRe3Qo
+PATCH https://prnt.sc/IFgGjxM55fDD
+PUT https://prnt.sc/e5GIZCeyKFgG
+DELETE https://prnt.sc/JzDAowGKX7EE 
+
+Assertions:
+Duration = 1000
+Size = <=2000
+Response = Response code contains "2"
